@@ -1,24 +1,24 @@
 {
- "2026-10-22": {
+ "2026-10-23": {
   "Asr": {
-   "begin": "15:24",
+   "begin": "15:23",
    "iqamah": "16:00"
   },
   "Dhuhr": {
    "begin": "12:58",
-   "iqamah": "13:45"
+   "iqamah": "13:15"
   },
   "Fajr": {
-   "begin": "06:19",
+   "begin": "06:21",
    "iqamah": "06:30"
   },
   "Isha": {
-   "begin": "19:22",
-   "iqamah": "19:22"
+   "begin": "19:20",
+   "iqamah": "19:20"
   },
   "Maghrib": {
-   "begin": "18:00",
-   "iqamah": "18:00"
+   "begin": "17:58",
+   "iqamah": "17:58"
   }
  }
 }
